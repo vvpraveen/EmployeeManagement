@@ -1,0 +1,51 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "praveen vv",
+      "email": "praveen@gmail.com",
+      "phone": "7634746474"
+    },
+    {
+      "name": "abiraj",
+      "email": "abiraj@gmail",
+      "phone": "9876433212",
+      "active": true,
+      "id": "2"
+    },
+    {
+      "name": "kanish",
+      "email": "kani@gmail.com",
+      "phone": "9965314532",
+      "active": true,
+      "id": "3"
+    },
+    {
+      "name": "vishnu",
+      "email": "vishuuuuu@gmail.com",
+      "phone": "8675653435",
+      "active": true,
+      "id": "4"
+    },
+    {
+      "name": "kavin",
+      "email": "kavin@gmail.com",
+      "phone": "6369826072",
+      "active": false,
+      "id": "5"
+    },
+    {
+      "name": "vijay",
+      "email": "vijayy@gmail.com",
+      "phone": "987654326",
+      "active": true,
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "praveenkumar",
+      "email": "praveenkumar1234@gmail.com",
+      "phone": "98763731425"
+    }
+  ]
+}

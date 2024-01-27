@@ -1,0 +1,9 @@
+.backgrnd{
+
+    background-image: url("V:\21f140\project\src\components\assets\images.jpg") ;
+     background-attachment: fixed; 
+     height: 100vh;
+   background-size: cover;
+     padding-top: 20px;
+     padding-bottom: px;
+   }
