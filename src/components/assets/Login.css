@@ -1,6 +1,6 @@
 .backgrnd1{
 
-    background-image: url("V:\21f140\project\src\components\assets\images.jpg") ;
+    background-image: url("./images.jpg") ;
      background-attachment: fixed; 
    background-size: cover;
      padding-top: 20px;
